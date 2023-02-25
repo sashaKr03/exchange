@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    background-color: rgb(24, 24, 87);
+    color: aliceblue;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 5%;
+    width: 93%;
+    align-items: center;
+}
+
+.currencyHeader{
+    display: flex;
+    gap:20px;
+}
